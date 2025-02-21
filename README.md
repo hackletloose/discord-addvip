@@ -75,7 +75,7 @@ This Discord bot allows moderators to grant temporary VIP rights to players via 
 |----------------------|-------------------------------------------------------|------------------------------|
 | DISCORD_BOT_TOKEN    | Your bot token from the Discord Developer Portal      | `OTMzOT...`                  |
 | API_BASE_URL         | Base URL for your API                                 | `https://api.example.com`    |
-| API_TOKEN            | Token or key to authorize requests to your API        | `abc123xyz`                  |
+| API_TOKEN            | Token or key to authorize requests to your API        | `3c314d88-89ba-4c27-a1d5-f754569660cf`                  |
 | ALLOWED_CHANNEL_ID   | The Discord channel ID where the “Grant VIP” button is posted | `123456789012345678` |
 | VIP_LOG_CHANNEL_ID   | The Discord channel ID where each VIP grant is logged | `234567890123456789`         |
 | LANG_CODE            | Language code used for loading text from `language.json`  | `en` or `de`                |
@@ -181,7 +181,7 @@ Dieses Discord-Bot-Skript ermöglicht es Moderatoren, Spielern direkt per Discor
 |----------------------|---------------------------------------------------------------------|--------------------------------|
 | DISCORD_BOT_TOKEN    | Bot-Token aus dem Discord Developer Portal                          | `OTMzOT...`                    |
 | API_BASE_URL         | Basis-URL für eure API                                              | `https://api.beispiel.de`      |
-| API_TOKEN            | Token oder Key zur Autorisierung der API-Aufrufe                    | `abc123xyz`                    |
+| API_TOKEN            | Token oder Key zur Autorisierung der API-Aufrufe                    | `3c314d88-89ba-4c27-a1d5-f754569660cf`                    |
 | ALLOWED_CHANNEL_ID   | Discord-Kanal-ID, in dem der „VIP vergeben“-Button angezeigt wird    | `123456789012345678`           |
 | VIP_LOG_CHANNEL_ID   | Discord-Kanal-ID, in dem jede VIP-Vergabe protokolliert wird         | `234567890123456789`           |
 | LANG_CODE            | Sprachcode, um die Texte aus `language.json` zu laden               | `en` oder `de`                 |
