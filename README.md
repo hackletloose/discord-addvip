@@ -205,8 +205,4 @@ Dieses Discord-Bot-Skript ermöglicht es Moderatoren, Spielern direkt per Discor
 ---
 
 ### Lizenz
-(Nenne hier deine gewünschte Lizenz, z. B. MIT, Apache, GPL etc.)
-
----
-
-Das war’s! Mit diesem **README** sollten Nutzer sowohl auf Englisch als auch auf Deutsch alle Schritte nachvollziehen können, um den Bot einzurichten und VIP-Rechte zu vergeben.
+MIT
