@@ -99,7 +99,7 @@ This Discord bot allows moderators to grant temporary VIP rights to players via 
 ---
 
 ### License
-(Decide on a license for your project, e.g., MIT, Apache, GPL, etc.)
+MIT
 
 ---
 
